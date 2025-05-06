@@ -1,5 +1,5 @@
-Here’s a refined and professional version of your report summary with improved structure, grammar, and flow:
-
+Text Analytics – A Comparative Analysis of 
+Brand Reviews
 ---
 
 **Objective:**  
@@ -16,7 +16,3 @@ A Random Forest classifier was also implemented, outperforming the SVM model wit
 
 **Conclusion:**  
 The analysis demonstrates that while machine learning models like SVM and Random Forest can effectively identify certain emotions from textual data—especially *'joy'*—they encounter difficulties with subtler or less distinct emotional categories. These findings highlight the complexity of emotion detection in natural language and point toward opportunities for further model optimization and feature enhancement.
-
----
-
-Let me know if you'd like this adjusted into a PowerPoint summary or an academic-style abstract.
